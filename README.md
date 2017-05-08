@@ -10,7 +10,7 @@ separating the concern of how models are used and stored in your application lay
 as REST API clients.
 
 Jiggler is framework agnostic and works with any object oriented approach to model declaration.
-We use it in production at [Heyride](http://heyride.com) for serializing all of our REST API responses which are derived from
+We use it in production at [Earnest](http://earnest.com) for serializing all of our REST API responses which are derived from
 Mongoose objects.
 
 It is loosely based on the ruby [acts_as_api](https://github.com/fabrik42/acts_as_api) gem and [node-swiz](https://github.com/racker/node-swiz),
