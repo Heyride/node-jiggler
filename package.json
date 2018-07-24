@@ -1,6 +1,6 @@
 {
   "author": "Brian Romanko @bromanko.",
-  "name": "jiggler",
+  "name": "@earnest/jiggler",
   "description": "jiggler provides a simple and flexible interface for defining representations for your JavaScript objects.",
   "version": "2.0.0",
   "repository": {
