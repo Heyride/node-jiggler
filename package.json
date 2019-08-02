@@ -11,6 +11,9 @@
   "directories": {
     "lib": "./lib"
   },
+  "publishConfig": {
+    "registry": "https://artifactory.tools.earnest.com/api/npm/npm/"
+  },
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
   },
