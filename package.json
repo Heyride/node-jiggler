@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "async": "0.1.x",
-    "lodash": "~2.4.1",
+    "lodash": "~4.17.21",
     "string": "^3.3.3"
   },
   "devDependencies": {
